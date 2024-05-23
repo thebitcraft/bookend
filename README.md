@@ -29,3 +29,5 @@ or just
 ```
 docker-compose up
 ```
+
+run it
